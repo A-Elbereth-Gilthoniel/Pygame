@@ -1,6 +1,6 @@
 import pygame
 from setting import *
-from ray_casting2 import ray_casting
+from ray_casting import ray_casting
 
 class Drawing:
     def __init__(self, screen):

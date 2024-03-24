@@ -3,7 +3,7 @@ from setting import *
 from player import Player
 import math
 from map import world_map, text_map
-from ray_casting2 import ray_casting
+from ray_casting import ray_casting
 from drawing import Drawing
 
 pygame.init()
